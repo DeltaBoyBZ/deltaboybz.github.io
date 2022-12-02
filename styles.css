@@ -119,3 +119,18 @@ a {
     color: white; 
 }
 
+.project-link
+{
+    text-decoration: none; 
+    font-size: 30;
+    padding-left: 3%; 
+    padding-right: 3%; 
+    background-color: #111144; 
+    color: white; 
+}
+
+.project-link:hover
+{
+    background-color: #4444ff;
+}
+
